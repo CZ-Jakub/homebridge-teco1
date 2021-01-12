@@ -11,7 +11,7 @@ module.exports = function(homebridge) {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
   
-  homebridge.registerAccessory("teco1", "Zarovka1", zarovka001);
+  homebridge.registerAccessory("homebridge-teco1", "Zarovka1", zarovka001);
 }
 
 function zarovka001(log, config) {
