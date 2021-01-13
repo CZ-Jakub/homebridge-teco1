@@ -1,5 +1,5 @@
 {
-  "name": "teco1",
+  "name": "homebridge-teco1",
   "version": "1.0.1",
   "description": "Homebridge plugin for homebridge: https://github.com/CZ-Jakub/homebridge-teco1",
   "license": "UNLICENSED",
